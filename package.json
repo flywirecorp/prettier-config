@@ -1,8 +1,8 @@
 {
   "name": "@flywire/prettier-config",
   "version": "1.0.0",
-  "description": "Prettier config according to Flywire' preference",
-  "main": "index.json",
+  "description": "Flywire's base prettier configuration",
+  "main": "index.js",
   "author": "Flywire",
   "license": "MIT",
   "keywords": [
