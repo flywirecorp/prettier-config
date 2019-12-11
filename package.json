@@ -1,0 +1,20 @@
+{
+  "name": "@flywire/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config according to Flywire' preference",
+  "main": "index.json",
+  "author": "Flywire",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peertransfer/prettier-config.git"
+  },
+  "homepage": "https://github.com/peertransfer/prettier-config",
+  "peerDependencies": {
+    "prettier": "^1.12.1"
+  }
+}
