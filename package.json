@@ -1,6 +1,6 @@
 {
   "name": "@flywire/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flywire's base prettier configuration",
   "main": "index.js",
   "author": "Flywire",
